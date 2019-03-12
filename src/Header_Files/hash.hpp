@@ -1,10 +1,9 @@
-##ifndef HASH_HPP
+#ifndef HASH_HPP
 #define HASH_HPP
 //#include<iostream>
-#include<sstream>
 //#include<string>
+#include<sstream>
 #include<iomanip>
-
 #include<openssl/sha.h>
 #include<openssl/ripemd.h>
 namespace hash
